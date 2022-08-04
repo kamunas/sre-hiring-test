@@ -2,11 +2,7 @@
 
 This test is a part of our hiring process at Telefonica-Novum for [SRE positions](https://jobs.telefonica.com/job/MADRID-TALENT-HUNTERS-SRE-engineer/790653101/). It should take you between 1 and 6 hours depending on your experience.
 
-Feel free to apply! Drop us a line with your Linkedin/Github/Twitter ..
-
-
 ## Summary
-
 
 For corporate purposes we have been asked to provide a blog service so that our engineering team can publish technical articles. We have thought that wordpress is a standard and suitable platform for this purpose.
 
